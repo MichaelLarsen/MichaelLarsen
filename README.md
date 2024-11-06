@@ -49,4 +49,4 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ---
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" width="600" height="300">
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" width="600" />
