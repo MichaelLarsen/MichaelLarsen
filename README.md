@@ -35,7 +35,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
   
 ### :hammer_and_wrench: Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=github,dotnet,graphql,ts,js,react,rider,vscode,docker,azure,java,elasticsearch,apollo,yarn,nodejs&perline=5)](https://skillicons.dev)
@@ -48,3 +47,6 @@
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+
+---
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" width="600" height="300">
