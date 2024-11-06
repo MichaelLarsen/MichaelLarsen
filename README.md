@@ -8,6 +8,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MichaelLarsen/MichaelLarsen/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichaelLarsen/MichaelLarsen/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MichaelLarsen/MichaelLarsen/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/michael-larsen-44628483">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
