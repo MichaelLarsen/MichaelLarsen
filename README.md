@@ -29,7 +29,7 @@
 
   
 ### :hammer_and_wrench: Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=github,dotnet,graphql,ts,js,react,rider,vscode,docker,azure,java,elasticsearch,apollo,yarn,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,dotnet,graphql,ts,js,react,rider,vscode,docker,azure,java,elasticsearch,apollo,yarn,nodejs&perline=5)](https://skillicons.dev)
 
 
 
@@ -38,4 +38,7 @@
 
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
