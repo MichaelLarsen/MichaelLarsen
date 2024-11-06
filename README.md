@@ -18,7 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=MichaelLarsen&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I’m currently working on ...
+### 👨‍💻 About Me :
+- 🔭 I’m currently working as a Lead Developer at Nordic Insurance Software
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -31,10 +32,7 @@
 ### :hammer_and_wrench: Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=github,dotnet,graphql,ts,js,react,rider,vscode,docker,azure,java,elasticsearch,apollo,yarn,nodejs&perline=5)](https://skillicons.dev)
 
-
-
 ### 🎮 When I'm AFK:
-
 
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
